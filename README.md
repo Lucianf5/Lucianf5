@@ -55,11 +55,11 @@
 
 <div align="center">
     <a href="https://github.com/Lucianf5">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucianf5&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucianf5&show_icons=true&bg_color=232b2b&title_color=2bebfb&text_color=ffeeff&icon_color=2bebfb&border_color=2bebfb" />
     </a>
 <!--     <br> -->
     <a href="https://github.com/Lucianf5">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianf5&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianf5&show_icons=true&bg_color=232b2b&title_color=2bebfb&text_color=ffeeff&icon_color=2bebfb&border_color=2bebfb" />
     </a>
 
 </div>
