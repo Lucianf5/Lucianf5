@@ -1,7 +1,7 @@
 
 <div align="center">
     
-# run the code before the code runs you.
+
 
 </div>
 
@@ -44,9 +44,9 @@
 <br>
 <br>
   
-[<img src = "https://img.shields.io/badge/instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucian_michaeliz/)
-[<img src="https://img.shields.io/badge/linkedin-%230a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucianofn/)
-[<img src="https://img.shields.io/badge/-gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:luciano.fernas@gmail.com)
+[<img src = "https://img.shields.io/badge/instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank">](https://www.instagram.com/lucian_michaeliz/)
+[<img src="https://img.shields.io/badge/linkedin-%230a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/lucianofn/)
+[<img src="https://img.shields.io/badge/-gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />](mailto:luciano.fernas@gmail.com)
 
 </div>
 
